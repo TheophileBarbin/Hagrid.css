@@ -1,14 +1,12 @@
 /*
-  Hagrid.css, a simple, clean and updated grid to manage a responsive website.
+  Hagrid.css: a simple, clean and updated grid to manage a responsive website.
 
   Based on Simple Grid by Dallas Bass - http://thisisdallas.github.com/Simple-Grid/
   Add pixel-perfection for modern browsers with calc(), full support for many columns sizes and new classes to show/hide content
   Author - Armand Grillet (@ArmandGrillet)
-  
+ 
   Compatibility : 	IE > 8, Firefox >= 20, Chrome >= 26, Safari >= 5.1, Opera >= 12.1, 
   					iOS Safari >= 3.2, Opera Mini >= 5.0, Android Browser >= 2.1, Blackberry browser >= 7.0
-  					
-  Entirely available on GitHub (source, exemple, license) 
 */
 
 *, *:after, *:before {
