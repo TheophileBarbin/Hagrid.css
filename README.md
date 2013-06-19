@@ -6,7 +6,7 @@ Hagrid is a basic lightweight grid, not a CSS framework. It's based on [Simple G
 * pixel-perfection for modern browsers with calc()
 * full support for many column sizes
 * bug fixes
-* an example page host on GitHub 
+* a clear example page host on GitHub 
 * a license to allow everyone to use and fork the grid 
 
 Hagrid is built for responsive layouts. With fluid columns, the grid will resize to adjust to the browser resolution. To accomodate for mobile and tablet devices, the grid will essentially stack all columns, one above another, when viewed on smaller screens (max width = 768px). The CSS contains classes to choose if a class has to be visible/hide on specific width devices.
